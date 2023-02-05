@@ -1,0 +1,16 @@
+{
+   "locales": ['es', 'en', 'pseudo'],
+   "pseudoLocale": 'pseudo',
+   "sourceLocale": 'es',
+   "fallbackLocales": {
+    "default": 'es'
+   },
+   "catalogs": [
+     {
+      "path": 'translations/locales/{locale}/messages',
+      "include": ['pages', 'components']
+     }
+   ],
+   "format": 'po'
+ }
+ 

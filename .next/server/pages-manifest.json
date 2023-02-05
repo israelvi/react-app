@@ -1,0 +1,16 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/es/500": "pages/es/500.html",
+  "/en/500": "pages/en/500.html",
+  "/pseudo/500": "pages/pseudo/500.html",
+  "/es/404": "pages/es/404.html",
+  "/en/404": "pages/en/404.html",
+  "/pseudo/404": "pages/pseudo/404.html",
+  "/es/home/home_1": "pages/es/home/home_1.html",
+  "/en/home/home_1": "pages/en/home/home_1.html",
+  "/pseudo/home/home_1": "pages/pseudo/home/home_1.html"
+}
