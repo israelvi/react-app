@@ -1,1 +1,1 @@
-/*eslint-disable*/module.exports={messages:JSON.parse("{\"Buy, sell and collect NFTs.\":\"Buy, sell and collect NFTs.\"}")};
+/*eslint-disable*/module.exports={messages:JSON.parse("{\"Buy, sell and collect NFTs.\":\"Comprar y vender NFTs\"}")};

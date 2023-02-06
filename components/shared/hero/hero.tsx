@@ -27,8 +27,7 @@ const hero = () => {
               <Trans>Buy, sell and collect NFTs.</Trans>
             </h1>
             <p className="dark:text-jacarta-200 mb-8 text-center text-lg md:text-left">
-              The worlds largest digital marketplace for crypto collectibles and
-              non-fungible tokens
+              This is an incredible app II
             </p>
             <div className="flex space-x-4">
               <Link legacyBehavior href="/create">

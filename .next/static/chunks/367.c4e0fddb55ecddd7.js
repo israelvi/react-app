@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[367],{6367:function(e){e.exports={messages:JSON.parse('{"Buy, sell and collect NFTs.":"\xdfũŷ, śēĺĺ \xe0ńď ćōĺĺēćţ ŃƑŢś."}')}}}]);
